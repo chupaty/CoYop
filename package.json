@@ -4,7 +4,8 @@
   "description": "",
   "main": "gulpfile.js",
   "dependencies": {
-    "gulp": "^3.9.0"
+    "gulp": "^3.9.0",
+    "jspm": "^0.16.19"
   },
   "devDependencies": {
     "gulp": "^3.9.0"
@@ -21,5 +22,9 @@
   "bugs": {
     "url": "https://github.com/chupaty/CoYop/issues"
   },
-  "homepage": "https://github.com/chupaty/CoYop#readme"
+  "homepage": "https://github.com/chupaty/CoYop#readme",
+  "jspm": {
+    "dependencies": {},
+    "devDependencies": {}
+  }
 }
