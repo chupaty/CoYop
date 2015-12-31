@@ -1,0 +1,25 @@
+{
+  "name": "coyop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.9.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chupaty/CoYop.git"
+  },
+  "author": "Simon Gittins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chupaty/CoYop/issues"
+  },
+  "homepage": "https://github.com/chupaty/CoYop#readme"
+}
